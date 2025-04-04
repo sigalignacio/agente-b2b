@@ -1,0 +1,64 @@
+# Desafío Técnico para Candidatos a Customer Success Engineer: Integración de Agentes de IA en la Manufactura de Prendas
+
+## 1. Análisis y Planificación
+
+**Tareas:**
+- Crear un diagrama de flujo que represente los procesos actuales de administración, gestión de inventario y mantenimiento de equipos.
+- Diseñar una matriz de priorización para identificar las áreas donde los agentes de IA puedan generar mayor impacto.
+- Elaborar un plan de implementación para 3 a 5 agentes de IA (se permiten soluciones multiagente), estableciendo hitos clave y métricas de éxito. El plan debe abarcar un período de tres meses.
+
+---
+
+## 2. Integración Técnica
+
+**Tareas:**
+- Diseñar un esquema arquitectónico que ilustre cómo los agentes de IA se integrarán con los sistemas ERP (gestión empresarial) y MES (monitoreo y control de producción) existentes.
+- Redactar un documento de especificaciones técnicas para la API que conectará los agentes de IA con las bases de datos de la empresa.
+- Definir los canales de despliegue de cada agente propuesto.
+
+---
+
+## 3. Gestión del Cambio
+
+**Tareas:**
+- Preparar una presentación ejecutiva que destaque los beneficios clave de los agentes de IA para la alta dirección.
+- Diseñar un plan modular de capacitación dirigido a operarios, supervisores y gerentes.
+- Crear un documento de "Preguntas Frecuentes" que aborde las inquietudes comunes de los empleados sobre la implementación de los agentes de IA.
+
+---
+
+## 4. Implementación y Optimización
+
+**Tareas:**
+- Elaborar un plan detallado de implementación por fases, comenzando con un piloto en un área específica.
+- Diseñar un proceso para recopilar retroalimentación de los usuarios y establecer un ciclo de mejora continua para los agentes de IA.
+
+---
+
+## Parte Práctica
+
+**Tareas:**
+- Implementar un agente de ventas tipo B2B que gestione transacciones basadas en la lectura de una base de datos PostgreSQL. La base de datos debe construirse a partir del archivo `DB.xlsx` y ser accesible mediante un endpoint.  
+- Asegurar que el agente pueda registrar los pedidos de compra en la misma base de datos utilizando otro endpoint.
+- Integrar el agente con WhatsApp.  
+  **Puntos extra:** Permitir que el agente edite un pedido de compra dentro de los primeros 5 minutos desde su creación.
+
+ENTREGABLES
+1. Video explicativo para el cliente del producto final.
+2. Repositorio de GitHub.
+3. Acceso al agente desplegado.
+
+---
+
+## Evaluación de Habilidades Clave
+
+Cada tarea será evaluada considerando las siguientes competencias:
+
+1. **Comprensión técnica**: Capacidad para aplicar conceptos de IA y automatización en contextos industriales.
+2. **Comunicación efectiva**: Claridad al explicar conceptos técnicos a audiencias con diferentes niveles de expertise.
+3. **Resolución de problemas**: Habilidad para idear soluciones innovadoras frente a desafíos técnicos y organizacionales.
+4. **Gestión de proyectos**: Competencia en la planificación, ejecución y seguimiento de proyectos complejos.
+5. **Empatía y manejo de relaciones**: Sensibilidad para identificar y atender preocupaciones de los stakeholders.
+6. **Análisis de datos**: Capacidad para interpretar datos y extraer insights valiosos.
+7. **Adaptabilidad**: Flexibilidad para ajustar estrategias en función del feedback y los cambios en el entorno.
+
