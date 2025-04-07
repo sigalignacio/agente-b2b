@@ -2,11 +2,14 @@ const express = require('express');
 
 require('dotenv').config();
 
-const app = express
+const app = express();
 
-const port = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
+
+const salesRoutes = require('./routes/salesRoutes');
+app.use('/api',salesRoutes);
 app.get('/',(req,res)=> {
     res.send('Servidor funcionando correctamente.');
 })

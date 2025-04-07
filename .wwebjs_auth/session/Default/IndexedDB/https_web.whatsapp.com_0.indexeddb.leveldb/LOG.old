@@ -1,0 +1,102 @@
+2025/04/07-14:09:52.745 597c Reusing MANIFEST C:\Users\nachi\OneDrive\Escritorio\Challenge\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/07-14:09:52.746 597c Recovering log #2546
+2025/04/07-14:09:52.787 597c Reusing old log C:\Users\nachi\OneDrive\Escritorio\Challenge\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002546.log 
+2025/04/07-14:09:52.788 597c Delete type=2 #2452
+2025/04/07-14:09:52.788 597c Delete type=2 #2453
+2025/04/07-14:09:52.788 597c Delete type=2 #2473
+2025/04/07-14:09:52.788 597c Delete type=2 #2474
+2025/04/07-14:09:52.788 597c Delete type=2 #2534
+2025/04/07-14:09:52.788 597c Delete type=2 #2535
+2025/04/07-14:09:52.788 597c Delete type=2 #2536
+2025/04/07-14:09:52.788 597c Delete type=2 #2537
+2025/04/07-14:09:52.788 597c Delete type=2 #2538
+2025/04/07-14:09:52.788 597c Delete type=2 #2539
+2025/04/07-14:09:52.788 597c Delete type=2 #2540
+2025/04/07-14:09:52.788 597c Delete type=2 #2541
+2025/04/07-14:09:52.788 597c Delete type=2 #2550
+2025/04/07-14:09:52.788 597c Delete type=2 #2551
+2025/04/07-14:10:01.436 597c Manual compaction at level-0 from '\x00r\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00s\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/07-14:15:58.442 3a74 Level-0 table #2579: started
+2025/04/07-14:15:58.462 3a74 Level-0 table #2579: 1241829 bytes OK
+2025/04/07-14:15:58.463 3a74 Delete type=0 #2546
+2025/04/07-14:15:59.630 4e88 Compacting 1@0 + 0@1 files
+2025/04/07-14:15:59.658 4e88 Generated table #2580@0: 22060 keys, 445942 bytes
+2025/04/07-14:15:59.662 4e88 Generated table #2581@0: 455 keys, 37366 bytes
+2025/04/07-14:15:59.667 4e88 Generated table #2582@0: 697 keys, 44869 bytes
+2025/04/07-14:15:59.669 4e88 Generated table #2583@0: 74 keys, 6521 bytes
+2025/04/07-14:15:59.669 4e88 Compacted 1@0 + 0@1 files => 534698 bytes
+2025/04/07-14:15:59.670 4e88 compacted to: files[ 0 4 40 0 0 0 0 ]
+2025/04/07-14:16:00.090 4e88 Compacting 1@1 + 11@2 files
+2025/04/07-14:16:00.161 4e88 Generated table #2584@1: 87070 keys, 2237772 bytes
+2025/04/07-14:16:00.220 4e88 Generated table #2585@1: 50354 keys, 2252239 bytes
+2025/04/07-14:16:00.268 4e88 Generated table #2586@1: 35162 keys, 2195837 bytes
+2025/04/07-14:16:00.291 4e88 Generated table #2587@1: 3406 keys, 2158265 bytes
+2025/04/07-14:16:00.315 4e88 Generated table #2588@1: 2863 keys, 2163062 bytes
+2025/04/07-14:16:00.338 4e88 Generated table #2589@1: 3095 keys, 2156901 bytes
+2025/04/07-14:16:00.361 4e88 Generated table #2590@1: 3570 keys, 2157699 bytes
+2025/04/07-14:16:00.373 4e88 Generated table #2591@1: 1589 keys, 943979 bytes
+2025/04/07-14:16:00.373 4e88 Compacted 1@1 + 11@2 files => 16265754 bytes
+2025/04/07-14:16:00.374 4e88 compacted to: files[ 0 3 37 0 0 0 0 ]
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2302
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2303
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2304
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2305
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2306
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2336
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2353
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2359
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2562
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2563
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2564
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2579
+2025/04/07-14:16:00.374 4e88 Delete type=2 #2580
+2025/04/07-14:16:03.055 2fcc Compacting 1@1 + 10@2 files
+2025/04/07-14:16:03.078 2fcc Generated table #2592@1: 3163 keys, 2154947 bytes
+2025/04/07-14:16:03.101 2fcc Generated table #2593@1: 3276 keys, 2151033 bytes
+2025/04/07-14:16:03.127 2fcc Generated table #2594@1: 4317 keys, 2151168 bytes
+2025/04/07-14:16:03.145 2fcc Generated table #2595@1: 4135 keys, 2152116 bytes
+2025/04/07-14:16:03.189 2fcc Generated table #2596@1: 32928 keys, 2196143 bytes
+2025/04/07-14:16:03.246 2fcc Generated table #2597@1: 35956 keys, 2262321 bytes
+2025/04/07-14:16:03.301 2fcc Generated table #2598@1: 31576 keys, 2266357 bytes
+2025/04/07-14:16:03.356 2fcc Generated table #2599@1: 32018 keys, 2259889 bytes
+2025/04/07-14:16:03.407 2fcc Generated table #2600@1: 33023 keys, 2252485 bytes
+2025/04/07-14:16:03.459 2fcc Generated table #2601@1: 31285 keys, 2239155 bytes
+2025/04/07-14:16:03.462 2fcc Generated table #2602@1: 50 keys, 5460 bytes
+2025/04/07-14:16:03.462 2fcc Compacted 1@1 + 10@2 files => 22091074 bytes
+2025/04/07-14:16:03.463 2fcc compacted to: files[ 0 2 38 0 0 0 0 ]
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2552
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2553
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2554
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2555
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2556
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2557
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2558
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2559
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2560
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2561
+2025/04/07-14:16:03.464 2fcc Delete type=2 #2581
+2025/04/07-14:16:07.632 2fcc Compacting 1@1 + 10@2 files
+2025/04/07-14:16:07.667 2fcc Generated table #2603@1: 15493 keys, 2156353 bytes
+2025/04/07-14:16:07.702 2fcc Generated table #2604@1: 17488 keys, 2144612 bytes
+2025/04/07-14:16:07.729 2fcc Generated table #2605@1: 12173 keys, 2137987 bytes
+2025/04/07-14:16:07.799 2fcc Generated table #2606@1: 101341 keys, 2253373 bytes
+2025/04/07-14:16:07.881 2fcc Generated table #2607@1: 103260 keys, 2255446 bytes
+2025/04/07-14:16:07.959 2fcc Generated table #2608@1: 99019 keys, 2248261 bytes
+2025/04/07-14:16:08.038 2fcc Generated table #2609@1: 99024 keys, 2249883 bytes
+2025/04/07-14:16:08.116 2fcc Generated table #2610@1: 100439 keys, 2248969 bytes
+2025/04/07-14:16:08.193 2fcc Generated table #2611@1: 98975 keys, 2247458 bytes
+2025/04/07-14:16:08.269 2fcc Generated table #2612@1: 99777 keys, 2249119 bytes
+2025/04/07-14:16:08.272 2fcc Generated table #2613@1: 2114 keys, 46655 bytes
+2025/04/07-14:16:08.272 2fcc Compacted 1@1 + 10@2 files => 22238116 bytes
+2025/04/07-14:16:08.272 2fcc compacted to: files[ 0 1 39 0 0 0 0 ]
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2565
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2566
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2567
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2568
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2569
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2570
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2571
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2572
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2573
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2574
+2025/04/07-14:16:08.273 2fcc Delete type=2 #2582
