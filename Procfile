@@ -1,1 +1,1 @@
-web: node whatsappbot.js
+web: node whatsappBot.js
