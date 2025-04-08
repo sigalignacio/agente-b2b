@@ -3,7 +3,9 @@ const qrcode = require('qrcode-terminal');
 const axios = require('axios');
 
 const client = new Client({
-    authStrategy: new LocalAuth(),
+    authStrategy: new LocalAuth({
+        dataPath: './auth' 
+    }),
     puppeteer: {
         headless: true,
         args: ['--no-sandbox']
