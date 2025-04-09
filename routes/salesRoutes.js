@@ -93,7 +93,7 @@ router.post('/pedidos', async (req, res) => {
 
         res.status(201).json(result.rows[0]);
     } catch (err) {
-        console.error('Error al registrar pedido:', err);
+        console.error('Error al registrar pedido:', err.message, err.stack);
         res.status(500).json({ error: 'Error al registrar el pedido' });
     }
 });
